@@ -1,0 +1,6 @@
+rm-so: Remove Soap Operas
+
+This is a tool to remove at least a portion of the unsettlingly large amount of gwoo's mind 
+that is dedicated to the names of daytime soap operas.
+
+USAGE: bash rm-sh /PATH/TO/MIND/FILE
