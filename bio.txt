@@ -1,5 +1,14 @@
-Garrett Woodworth, better known as GWoo, is a passionate open source developer and community member. He earned street cred as project manager of CakePHP, where he focused on usability and development.
+Garrett Woodworth, better known as GWoo, is a passionate open source developer and community member.
+He earned street cred as project manager of CakePHP, where he focused on usability and core
+development. 
 
-Gwoo continues to innovate in PHP web framework space as project manager of Lithium, the most rad PHP framework. He values test-driven development and looks to promote better quality open source software through process and tooling. He likes Git, MongoDb, ZeroMQ, and Clouds. When not working on open source projects, Gwoo is currently engineering distributed systems at EngineYard, Inc.
+Gwoo continues to innovate in PHP web framework space as project manager of Lithium,
+the most RAD PHP framework. He values test-driven development and looks to promote better quality
+open source software through process and tooling. He likes Git, MongoDb, ZeroMQ, and Clouds. When
+not working on open source projects, Gwoo is working on some super secret side projcets. 
 
-Gwoo holds a bachelor's degree in history from the University of Hawaii and a JD/MBA from Fordham University, where he studied intellectual property and information systems.
+He was previously engineering distributed systems and user experience at EngineYard, Inc., and 
+before that VP of Product and Engineering at Geeknet working on SourceForge and Slashdot. 
+
+Gwoo holds a bachelor's degree in history from the University of Hawaii and a JD/MBA from 
+Fordham University, where he studied intellectual property and information systems.
