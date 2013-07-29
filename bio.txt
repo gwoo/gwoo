@@ -1,14 +1,22 @@
-Garrett Woodworth, better known as GWoo, is a passionate open source developer and community member.
-He earned street cred as project manager of CakePHP, where he focused on usability and core
-development. 
+Garrett Woodworth, better known as GWoo, is a passionate open source developer,
+user experience producer and systems engineer.
 
-Gwoo continues to innovate in PHP web framework space as project manager of Lithium,
-the most RAD PHP framework. He values test-driven development and looks to promote better quality
-open source software through process and tooling. He likes Git, MongoDb, ZeroMQ, and Clouds. When
-not working on open source projects, Gwoo is working on some super secret side projcets. 
+He gained the respect of many developers, as project manager of CakePHP,
+where he focused on usability, architecture and community development. GWoo continues
+innovating application frameworks with Lithium, the most RAD PHP framework. In addition,
+he follows development of user interface tools and works on projects related to devops.
 
-He was previously engineering distributed systems and user experience at EngineYard, Inc., and 
-before that VP of Product and Engineering at Geeknet working on SourceForge and Slashdot. 
+He has developed systems with PHP, Ruby, Python, Javascript, and still loves shell
+scripting. He values test driven development and looks to promote better quality software
+through process and tooling. Currently, he enjoys Go, Angular.js, Couchbase, ZeroMQ, and
+Clouds.
 
-Gwoo holds a bachelor's degree in history from the University of Hawaii and a JD/MBA from 
+Currently, GWoo is developing open source software while advising startups and
+enterprises. Most recently, he was involved with Infrastructure as a Service while
+VP of Engineering and Product Management at Blue Box Group, Inc. Previously, he
+focused on Platform as a Service while engineering user experience and distributed
+systems at EngineYard, Inc. Before entering the clouds, he was VP of Product and
+Engineering at Geeknet working on SourceForge and Slashdot.
+
+Gwoo holds a bachelor's degree in history from the University of Hawaii and a JD/MBA from
 Fordham University, where he studied intellectual property and information systems.
